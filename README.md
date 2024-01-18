@@ -1,12 +1,12 @@
 ![Hola mundo!](https://github.com/zvizzct/zvizzct/assets/88061199/25d68257-3360-4846-bed7-f68506d8150e)
 
-Hello there! I'm Víctor, a computer engineer in my fourth year at Universitat Pompeu Fabra. With a background in Web Development, my love for technology, especially software development, knows no bounds.
+Hello there! I'm Víctor, a computer engineer in my fourth year at Universitat Pompeu Fabra. With a background in Web Development.
 
 ### About Me
 
 - 🎓 **Educational Background**: A degree in Computer Engineering from Universitat Pompeu Fabra and a CFGS in Web Development.
 
-- 🚀 **Current Project**: I am currently working on an exciting Single Page Application (SPA) using React. This project aims to make culture more accessible through a web platform. It features a dynamic, user-friendly interface that interacts with a custom API. This API, in turn, retrieves data from a database populated through a Python script I developed for web scraping. The end result is a comprehensive and interactive book database.
+- 🚀 **Current Project**: I am currently working on a SPA using React. This project aims to make culture more accessible through a web platform. It features a dynamic, user-friendly interface that interacts with a custom API. This API, in turn, retrieves data from a database populated through a Python script I developed for web scraping. The end result is a comprehensive and interactive book database.
 
 - 💻 **Technical Skills**:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-direction:column">
