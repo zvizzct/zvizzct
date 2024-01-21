@@ -1,5 +1,9 @@
-![Hola mundo!](https://github.com/zvizzct/zvizzct/assets/88061199/25d68257-3360-4846-bed7-f68506d8150e)
 
+<p align="center">
+  <img src="git.svg" alt="Hola mundo!"/>
+</p>
+
+  
 Hello there! I'm Víctor, a computer engineer in my fourth year at Universitat Pompeu Fabra. With a background in Web Development.
 
 ### About Me
