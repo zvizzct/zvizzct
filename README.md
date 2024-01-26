@@ -10,8 +10,6 @@ Hello there! I'm Víctor, a computer engineer in my fourth year at Universitat P
 
 - 🎓 **Educational Background**: A degree in Computer Engineering from Universitat Pompeu Fabra and a CFGS in Web Development.
 
-- 🚀 **Current Project**: I am currently working on a SPA using React. This project aims to make culture more accessible through a web platform. It features a dynamic, user-friendly interface that interacts with a custom API. This API, in turn, retrieves data from a database populated through a Python script I developed for web scraping. The end result is a comprehensive and interactive book database.
-
 - 💻 **Technical Skills**:
 ## Mis Tecnologías 💻
 
@@ -51,6 +49,11 @@ Hello there! I'm Víctor, a computer engineer in my fourth year at Universitat P
 ### My Work
 
 Explore my repositories for a range of projects showcasing my skills and interests in web technologies.
+
+### Current Project
+
+I am currently working on a SPA using React. This project aims to make culture more accessible through a web platform. It features a dynamic, user-friendly interface that interacts with a custom API. This API, in turn, retrieves data from a database populated through a Python script I developed for web scraping. The end result is a comprehensive and interactive book database.
+
 
 ### Interests and Hobbies
 
