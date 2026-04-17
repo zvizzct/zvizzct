@@ -6,7 +6,7 @@ Construyo software y también el marco que lo rodea: documentación accionable, 
 
 ## Ahora
 
-- Eurecat: pipelines de datos con LLMs, sistemas internos y tooling de ingeniería.
+- Eurecat: desarrollo de software, arquitectura, pipelines de datos con LLMs, sistemas internos y tooling de ingeniería.
 - Trabajo cómodo entre producto, arquitectura y ejecución.
 - Interés especial en memoria operativa, agentes, recuperación de contexto y herramientas para equipos.
 
