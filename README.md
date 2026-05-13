@@ -1,33 +1,33 @@
 # Víctor Puerta
 
-Ingeniería de software, sistemas e IA aplicada.
+Full-stack software engineer based in Barcelona, focused on automation, internal tools, and applied AI.
 
-Construyo software y también el marco que lo rodea: documentación accionable, tooling útil y decisiones que aguantan cuando el equipo crece.
+I build software across the stack: product interfaces, APIs, data flows, internal platforms, and AI-assisted workflows. My recent work is mostly private and tied to engineering operations, R&D contexts, and tools that help teams move faster without losing clarity.
 
-## Ahora
+## Current Focus
 
-- Eurecat: desarrollo de software, arquitectura, pipelines de datos con LLMs, sistemas internos y tooling de ingeniería.
-- Trabajo cómodo entre producto, arquitectura y ejecución.
-- Interés especial en memoria operativa, agentes, recuperación de contexto y herramientas para equipos.
+- Full-stack product work at **Eurecat**, across client projects and R&D-linked software.
+- Data pipelines that extract, classify, enrich, and retrieve technical context.
+- Internal tools that reduce setup time, manual work, and repeated engineering friction.
+- Agent tooling, MCP integrations, and reusable conventions for applied AI workflows.
+- Backend architecture for systems that need to stay understandable as they grow.
 
-## Trabajo
+## Selected Work
 
-Gran parte de mi trabajo reciente vive en repositorios privados. Estas son las líneas en las que estoy más metido ahora:
+- **Agent Runtime** — shared tooling for teams adopting agents without rebuilding the same setup every time.
+- **UES Catalog** — a GitLab-to-catalog pipeline enriched with LLMs to make repository knowledge searchable and reusable.
+- **Operational Memory** — a local-first system for projects, tasks, persistent context, semantic retrieval, and agent workflows.
+- **The Kiosk** — a web EPUB library for browsing, organizing, searching, and reading a large personal catalog.
+- **Closet Native** — a SwiftUI wardrobe app with AI vision, outfit generation, and a usage calendar.
 
-- **Agent Runtime**: tooling compartido para que distintos equipos adopten agentes sin configurar todo desde cero.
-- **Memoria Operativa**: sistema local-first para proyectos, tareas, contexto persistente y recuperación semántica.
-- **Catálogo UES**: pipeline que convierte proyectos de GitLab en un catálogo consultable con enriquecimiento por LLM.
-- **Closet Native**: app iOS en SwiftUI para catalogar prendas con visión y generar outfits.
-- **El Quiosco**: biblioteca EPUB abierta con búsqueda, organización y lectura integradas. [backend](https://github.com/zvizzct/backend-epub-library) / [frontend](https://github.com/zvizzct/frontend-epub-library)
+## How I Work
 
-## Cómo trabajo
+I care about software that survives contact with real workflows: useful interfaces, clear contracts, explicit tradeoffs, and tools that are easy for other people to keep using.
 
-- Me muevo bien entre construir el producto y mejorar cómo se construye.
-- Me interesa más el criterio técnico sostenido que el fetichismo de stack.
-- Sigo de cerca LLMs, arquitecturas de agentes y patrones de sistemas, pero me importa convertirlos en herramientas útiles, no en demos.
+I follow AI closely, but I am more interested in practical adoption than demos: context, guardrails, review paths, and integrations that make the work better.
 
-## Enlaces
+## Links
 
-- [linkedin](https://www.linkedin.com/in/victor-puerta-zvizzct/)
-- [email](mailto:victor.puerta2298@gmail.com)
-- [portfolio repo](https://github.com/zvizzct/portfolio)
+- [Portfolio](https://victorpuerta.com)
+- [LinkedIn](https://www.linkedin.com/in/victor-puerta-zvizzct/)
+- [Email](mailto:victor.puerta2298@gmail.com)
