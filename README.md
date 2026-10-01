@@ -1,12 +1,12 @@
 # Víctor Puerta
 
-I'm a full-stack developer in Barcelona. I build full-stack software and tools that help teams spend less time on repetitive work.
+I'm a software engineer in Barcelona. I build software and tools that help teams spend less time on repetitive work.
 
 I work across interfaces, APIs, data systems, and the AI workflows that connect them. Most of my recent work is private: engineering operations, R&D, and tools that help teams move faster and keep track of their work.
 
 ## Current focus
 
-- Full-stack product work at Eurecat, across client and R&D projects.
+- Software engineering at Eurecat, across client and R&D projects.
 - Agent tooling: MCP gateways, integrations, and conventions for using agents in a team.
 - Data pipelines that extract, classify, enrich, and retrieve technical context.
 - Local-first AI: speech-to-text, retrieval, and generation running on-device.
