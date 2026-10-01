@@ -1,6 +1,6 @@
 # Víctor Puerta
 
-I'm a full-stack developer in Barcelona. Most days I'm building internal tools, automation, or something with AI.
+I'm a full-stack developer in Barcelona. I build full-stack software and tools that help teams spend less time on repetitive work.
 
 I work across interfaces, APIs, data systems, and the AI workflows that connect them. Most of my recent work is private: engineering operations, R&D, and tools that help teams move faster and keep track of their work.
 
@@ -14,12 +14,12 @@ I work across interfaces, APIs, data systems, and the AI workflows that connect 
 
 ## Selected work
 
-- Gold Rush: a personal project, an isometric 3D town with plots for companies and AI characters inspired by founders. Residents have social lives, memories, conversations, and activities. Built with Next.js, TypeScript, Three.js, PostgreSQL, Blender, and AI agents ([staging](https://staging.goldrush.town)).
 - Agent Tooling: a governed registry and internal MCP gateway. One `/mcp` endpoint enforces the catalog, per-user grants, and credential delivery, and audits every call.
 - UES Catalog: a GitLab-to-catalog pipeline enriched with LLMs to make repository knowledge searchable.
-- Operational Memory: a local-first system that gives agents durable memory of projects, tasks, and decisions across sessions ([code](https://github.com/zvizzct/organizacion)).
+- Gold Rush: a personal project, an isometric 3D town with plots for companies and AI characters inspired by founders. Residents have social lives, memories, conversations, and activities. Built with Next.js, TypeScript, Three.js, PostgreSQL, Blender, and AI agents ([explore](https://staging.goldrush.town)).
+- Operational Memory: a local-first system that gives agents durable memory of projects, tasks, and decisions across sessions. The repository is private.
 - BIA: a local-first desktop app for governance meetings on macOS and Windows. It handles recording, transcription, retrieval, and drafting, with nothing leaving the machine.
-- Antes de La Odisea: an interactive atlas of a video essay about The Odyssey, with the YouTube player as the narrative clock ([live](https://antes-de-la-odisea.vercel.app) · [code](https://github.com/zvizzct/antes-de-la-odisea)).
+- Antes de La Odisea: an interactive atlas of a video essay about The Odyssey, with the YouTube player as the narrative clock ([live](https://antes-de-la-odisea.vercel.app)). The repository is private.
 - FocusGate: a macOS menu-bar app for strict focus sessions over NextDNS. An active timer cannot be stopped early.
 
 ## How I work
